@@ -16,7 +16,3 @@ Entendendo uma api rest.
 - A transação pode ser do tipo crédito ou débito.
 - Identificar o usuário entre as requisições.
 - O usuário só pode visualizar transações o qual ele criou.
-
-### Licença
-
-Esse projeto está sob a licença MIT.
