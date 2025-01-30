@@ -1,6 +1,6 @@
 ### Sobre o projeto
 
-Densenvolvendo uma api rest 
+Densenvolvendo uma api rest.
 Projeto realizado no MBA Rocketseat Full-stack. (https://www.rocketseat.com.br)  
 Entendendo uma api rest.
 
